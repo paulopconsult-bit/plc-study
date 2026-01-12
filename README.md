@@ -28,13 +28,15 @@ P. Dias, I. Matile, F. A. T. Silva, M. A. A. Melo, P. B. Lopes
 Universidade Presbiteriana Mackenzie – Escola de Engenharia (2009)
 
 🛠 Tecnologias utilizadas
+
 Matlab
 
 Simulink
 
 ATP (Alternative Transients Program)
 
-🧩 Conclusão
+🧩 Conclusão:
+
 O estudo demonstrou que é possível representar o canal PLC/BPL de forma precisa a partir da caracterização física da rede elétrica e da modelagem matemática dos seus parâmetros distribuídos. 
 A integração entre ATP e Matlab/Simulink permitiu avaliar o comportamento do canal em diferentes condições, incluindo efeitos de ressonância, atenuação e distorções.
 Os resultados indicam que a modelagem proposta é adequada para prever o desempenho de sistemas PLC/BPL antes da implantação em campo, contribuindo para o planejamento, análise e otimização de soluções de comunicação sobre redes de energia.
