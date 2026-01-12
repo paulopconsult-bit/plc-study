@@ -1,4 +1,5 @@
-## 📡 PLC Study – Computational Model for Power Line Communication Channels
+## 📡 PLC Study 
+### Computational Model for Power Line Communication Channels
 
 Este repositório reúne o estudo técnico desenvolvido em 2009 na Universidade Presbiteriana Mackenzie, abordando a modelagem e simulação de canais PLC/BPL em redes de distribuição de energia elétrica.
 
