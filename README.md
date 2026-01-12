@@ -1,14 +1,17 @@
 📡 PLC Study – Computational Model for Power Line Communication Channels
 Este repositório reúne o estudo técnico desenvolvido em 2009 na Universidade Presbiteriana Mackenzie, abordando a modelagem e simulação de canais PLC/BPL em redes de distribuição de energia elétrica.
 
-📘 Sobre o estudo
-O trabalho apresenta um modelo matemático e computacional capaz de analisar a transmissão de sinais PLC/BPL em redes elétricas reais. A abordagem combina:
+## 📘 Sobre o estudo
 
-Caracterização física da rede via ATP (Alternative Transients Program)
-Modelagem de parâmetros distribuídos (R, L, C)
-Aplicação da transformação bilinear para obtenção do modelo discreto
-Simulação do canal em Matlab/Simulink
-Avaliação de desempenho com modulações GMSK e OFDM
+O trabalho apresenta um modelo matemático e computacional capaz de analisar a transmissão de sinais PLC/BPL em redes elétricas reais.  
+A abordagem combina:
+
+- **Caracterização física da rede via ATP (Alternative Transients Program)**
+- **Modelagem de parâmetros distribuídos (R, L, C)**
+- **Aplicação da transformação bilinear para obtenção do modelo discreto**
+- **Simulação do canal em Matlab/Simulink**
+- **Avaliação de desempenho com modulações GMSK e OFDM**
+
 O objetivo central é prever o comportamento do canal PLC antes da instalação de equipamentos, considerando efeitos como ressonância, atenuação e distorções.
 
 ## 📄 Artigo completo
