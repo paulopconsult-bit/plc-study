@@ -11,8 +11,9 @@ Simulação do canal em Matlab/Simulink
 Avaliação de desempenho com modulações GMSK e OFDM
 O objetivo central é prever o comportamento do canal PLC antes da instalação de equipamentos, considerando efeitos como ressonância, atenuação e distorções.
 
-📄 Artigo completo
-O PDF do artigo será disponibilizado neste repositório.
+## 📄 Artigo completo
+[📥 Baixar o PDF do artigo](./Artigo%20A%20Computational%20Model%20For%20The%20Energy%20Distribution%202009.pdf)
+
 
 Título:  
 A Computational Model For The Energy Distribution Network In Broadband Over Power Line Communications
