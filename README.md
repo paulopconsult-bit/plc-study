@@ -25,6 +25,7 @@ A Computational Model For The Energy Distribution Network In Broadband Over Powe
 
 Autores:  
 P. Dias, I. Matile, F. A. T. Silva, M. A. A. Melo, P. B. Lopes
+
 Universidade Presbiteriana Mackenzie – Escola de Engenharia (2009)
 
 🛠 Tecnologias utilizadas
